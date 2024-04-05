@@ -1,5 +1,7 @@
 # ✿°*. About Me *.°✿
-✿*｡ I’m currently working on Backend Development<br>✿*｡ Developing and upgrading personal projects <br>✿*｡ Learning PHP + Laravel
+✿*｡ I’m currently working on Backend Development<br>
+✿*｡ Aspiring full-stack web developer<br>
+✿*｡ Developing and upgrading personal projects<br>
 
 
 # ✿°*. Tech Stack *.°✿
