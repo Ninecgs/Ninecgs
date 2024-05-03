@@ -2,7 +2,7 @@
 ✿*｡ I’m currently working on Backend Development<br>
 ✿*｡ Aspiring full-stack web developer<br>
 ✿*｡ Developing and upgrading personal projects<br>
-✿*｡ Learning C# + .NET<br>
+✿*｡ Learning C#.NET<br>
 
 
 # ✿°*. Tech Stack *.°✿
