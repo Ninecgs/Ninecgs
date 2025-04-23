@@ -1,6 +1,6 @@
 # ✿°*. About Me *.°✿
 ✿*｡ I’m currently working on Backend Development<br>
-✿*｡ Aspiring full-stack web developer<br>
+✿*｡ Aspiring full-stack developer<br>
 ✿*｡ Developing and upgrading personal projects<br>
 ✿*｡ Back-end development with PHP + Laravel <br>
 
