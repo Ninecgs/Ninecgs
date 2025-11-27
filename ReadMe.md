@@ -1,6 +1,6 @@
 # ✿°*. About Me *.°✿
-✿*｡ I’m currently working on Front-end Development and UI/UX Design <br>
-✿*｡ Aspiring Full-Stack developer<br>
+✿*｡ I’m currently working on Fullstack Development<br>
+✿*｡ UI/UX Design<br>
 ✿*｡ Developing and upgrading personal projects<br>
 
 # ✿°*. Tech Stack *.°✿
